@@ -1,0 +1,43 @@
+body{
+  margin: 10px;
+  padding-left: 20px;
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWPmW-_9SQvGg1OgwnAicq4Hm7W5sBv5189sM2eY_QqpRbBg_2) no-repeat;
+  background-size: cover;
+}
+.profilePic{
+  text-align: left;
+}
+.profilePic div{
+  height: 200px;
+  width: 200px;
+}
+
+.profilePic h5{
+  margin-top: 1px;
+
+}
+.title{
+  <!--background-color: purpule;-->
+}
+.title ul{
+  border: 5px;
+}
+.title h1{
+  text-align: center;
+  color: black;
+  background-color: yellow;
+}
+
+h2{
+  color: black:
+}
+
+p{
+  font-size: 20px;
+  color: white;
+  font-family: cursive;
+}
+img{
+  height: 500px;
+  width: 500px;
+}
